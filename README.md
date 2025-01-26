@@ -4,7 +4,6 @@
   https://neojamal747.github.io/Portfolio/
 
   ## Table of Contents
-  * [Demo](#demo)
   * [Developer's Information](#devInfo)
   * [Credentials](#credentials)
   * [License](#license)
