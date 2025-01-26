@@ -4,14 +4,10 @@
   https://neojamal747.github.io/Portfolio/
 
   ## Table of Contents
-  * [Demo](#demo)
   * [Developer's Information](#devInfo)
   * [Credentials](#credentials)
   * [License](#license)
   
-  ## <a name="demo"></a>Demo
-  ![](images/mainportfolio.gif)
-
   ## <a name="devInfo"></a>Developer's Information
   Feel free to contact me using the information below if you have any questions or feedback!
   <br>
