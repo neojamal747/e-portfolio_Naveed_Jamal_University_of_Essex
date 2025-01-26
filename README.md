@@ -1,7 +1,7 @@
 # Main Portfolio
   My main portfolio website that I will be updating often to include most recent projects, up-to-date resume information, and sending to potential employers.
   <br>
-  https://neojamal747.github.io/Portfolio/
+  https://neojamal747.github.io/e-portfolio_Naveed_Jamal_University_of_Essex
 
   ## Table of Contents
   * [Developer's Information](#devInfo)
