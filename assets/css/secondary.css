@@ -5,24 +5,33 @@
     margin: 8px -16px;
   }
   
-  /* Add padding BETWEEN each column */
-  .row,
-  .row > .column {
-    padding: 8px;
+  /* For 3 cards per row */
+.cardColumn {
+  float: left;
+  width: 31.33%;
+  margin-left: 1%;
+  margin-right: 1%;
+  padding: 8px; /* Space inside each column */
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .cardColumn {
+    width: 100%;
+    margin: 1% 0;
   }
+}
+  /* Add padding BETWEEN each column */
+ .row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
   
   /* Creating two equal columns for current projects section  */
   .currentColumn {
     float:left;
     width: 49%;
-    margin-left: .5%;
-    margin-right: .5%;
-  }
-
-  /* Creating three equal columns for Top projects section  */
-  .topColumn {
-    float:left;
-    width: 32%;
     margin-left: .5%;
     margin-right: .5%;
   }
